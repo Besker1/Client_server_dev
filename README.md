@@ -86,3 +86,16 @@ Reset:
  ![Screenshot 2024-06-24 030142](https://github.com/Besker1/Client_server_dev/assets/53057190/e1940306-6a6a-4b35-b5eb-c38eab7756bd)
 
 
+**How do you write programs that are maintainable, readable, and adaptable?**
+
+There are several best practices when it comes to writing our programs maintainable, readable and adaptable. Namespaces need to be easy to understand and use through clear naming conventions, well-commented documentation on how the code provided in a namespace works with specific variable names that are useful only within their module. For instance, we encapsulated database operations in Project One module CRUD Python code within functions and classes which makes it readable as well as easy to modify. This modular approach made it a lot easier to connect the dashboard widgets with the database layer in Project Two without requiring much modifications on either end. The advantage of this CRUD module is that it can be used in future projects with similar data operations, which fulfillment purpose of code reusability and redundancy for the application.
+
+**How do you approach a problem as a computer scientist?**
+
+As a computer scientist, you will often take problems and tasks approaching them by chopping that problem into smaller, manageable chunks of work as well understanding the requirements to solving it. RequirementsFor the Grazioso Salvare project, I needed to work on a dashboard where data could be dynamically filtered and shown. This set it apart from earlier requisites that demanded a combo of database management and dynamic front end development. Things like creating the ERD diagrams for how your database would look, writing pseudocode and iterative testing really came in handy. I will use this strategies in the future also, to get good user feedback and finally I met client requirement.
+
+**What do computer scientists do, and why does it matter?**
+
+Computer scientists create software to address real-world problems. That is important, because it also allows companies like Grazioso Salvare to run much more efficiently and effectively. We gave Grazioso Salvare a way to find and train the best dogs for search-and-rescue by developing this dashboard, helping them on their journey of saving lives. Projects of this kind are significant in showcasing how computer science can actively engage with societal welfare, thereby enhancing processes as well as outcomes across multiple domains.
+
+
